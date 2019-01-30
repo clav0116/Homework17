@@ -1,7 +1,13 @@
-div.jumbotron {
+.jumbotron {
     text-align: center;
     background-color: #E5683B;
     color: white;  
+}
+.jumbotron1 {
+    text-align: center;
+    background-color: #E5683B;
+    color: white;  
+    padding: 175px;
 }
 
 .lead {
