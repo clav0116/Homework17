@@ -1,7 +1,7 @@
 div.jumbotron {
     text-align: center;
-    background-color: #E5683B; 
-    color: white; 
+    background-color: #E5683B;
+    color: white;  
 }
 
 .lead {
@@ -10,7 +10,7 @@ div.jumbotron {
 
 .btn{
     margin-top: 15px;
-    background-color: black; 
+    background-color: #00A2D3; 
     font-family: urw-din, sans-serif;
     border: white;
 }
@@ -33,8 +33,8 @@ h1 {
     padding: 50px;
 }
 
-navbar {
-    background-color: orange;
+.navcolor {
+    background-color:white; 
 }
 
 .col {
@@ -67,6 +67,17 @@ navbar {
 }
 
 .lead{
+    font-family: urw-din, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#C7EEFA;
+}
+
+.pop {
+    color:#C7EEFA;
+}
+
+.nav-link {
     font-family: urw-din, sans-serif;
     font-weight: 400;
     font-style: normal;
